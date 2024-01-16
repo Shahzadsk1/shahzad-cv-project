@@ -70,6 +70,40 @@ body {
   background: var(--sidebar);
   padding: 2rem;
 }
+.profile-text {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+.img-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.img-1 {
+  width: 12rem;
+  height: 12rem;
+
+  text-align: center;
+  object-fit: cover;
+  border-radius: 100%;
+}
+
+.sub-heading {
+  display: flex;
+  justify-content: center;
+  font-size: 2rem;
+  margin-top: 1rem;
+}
+
+.sub-name {
+  font-size: 1rem;
+  display: flex;
+  justify-content: center;
+}
 
 .main {
   position: relative;
