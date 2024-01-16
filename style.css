@@ -3,4 +3,15 @@
   padding: 0;
   font-size: 16px;
   font-family: "Poppins", sans-serif;
+  color: #eeeeeeda;
 }
+
+body {
+  background: #313338;
+}
+
+/* Colors
+light : #313338
+medium : #2B2D31
+dark : #1E1F22 
+*/
